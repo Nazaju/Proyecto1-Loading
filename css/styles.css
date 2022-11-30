@@ -1,0 +1,36 @@
+#fp-1{
+    background: #fc00ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #00dbde, #fc00ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.navbar-brand{
+    font-family:Brush Script MT;
+}
+.alig-text-1{
+    text-align: justify;
+    margin-top: 15px;
+}
+.nav-link{
+    font-family:Brush Script MT;
+}
+h2{
+    font-family:Brush Script MT;
+}
+/*#img-cat{
+    height: 200px;
+    width: 150px;
+    margin-bottom: 20px;
+}*/
+.card-group{
+    display: flex;
+    justify-content:center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+#img-center{
+    display:flex;
+    margin: auto;
+    
+}
